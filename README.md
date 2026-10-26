@@ -142,6 +142,7 @@ Hava durumu verileri [Open-Meteo](https://open-meteo.com/) tarafından sağlanma
 
 <img width="251" height="553" alt="image" src="https://github.com/user-attachments/assets/6d9df0f8-ce23-45d5-9c3f-139c5907aff1" />
 
+
 <img width="241" height="565" alt="image" src="https://github.com/user-attachments/assets/ad1971bb-33a3-48c9-929f-92323362e2a5" />
 
 <img width="246" height="552" alt="image" src="https://github.com/user-attachments/assets/67b77097-78f9-49d2-a715-48b0d1f2fcc2" />
